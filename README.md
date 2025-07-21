@@ -16,8 +16,8 @@ Step 6 (MTLLM integration): ai_helper walker uses think to invoke AI logic and h
 
 ## Authors
 
-Dhananjana D.D.S. - 220113V
-Gallage P.G.M.A. - 220173D
+Dhananjana D.D.S. - 220113V,
+Gallage P.G.M.A. - 220173D,
 Wijerathna N.W.M.G. - 220712G
 
 
