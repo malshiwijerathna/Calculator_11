@@ -43,16 +43,3 @@ obj Calculator {
     }
 }
 
-walker AIHelper {
-    has op: str;
-
-    can run with `root entry {
-        print(self.op + " isn't a supported operation.");
-        print("The user typed '" + self.op + "' as a math operation. Suggest a valid alternative (+, -, *, /).");
-    }
-}
-
-with entry {
-    calc = Calculator();
-    calc.start();
-}
