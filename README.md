@@ -11,14 +11,14 @@ This project implements a simple calculator using the [JAC Language](https://www
 
 ## What This Demonstrates
 
-Step 5 (scale-agnostic): num_operations controls how many times the loop runs.
-Step 6 (MTLLM integration): ai_helper walker uses think to invoke AI logic and help users when the input is invalid.
+-Step 5 (scale-agnostic): num_operations controls how many times the loop runs.
+-Step 6 (MTLLM integration): ai_helper walker uses think to invoke AI logic and help users when the input is invalid.
 
 ## Authors
 
-Dhananjana D.D.S. - 220113V,
-Gallage P.G.M.A. - 220173D,
-Wijerathna N.W.M.G. - 220712G
+-Dhananjana D.D.S. - 220113V
+-Gallage P.G.M.A. - 220173D
+-Wijerathna N.W.M.G. - 220712G
 
 
 
