@@ -20,6 +20,8 @@ This project implements a simple calculator using the [JAC Language](https://www
 - Gallage P.G.M.A. - 220173D
 - Wijerathna N.W.M.G. - 220712G
 
+Group Name - 11
+
 
 
 
