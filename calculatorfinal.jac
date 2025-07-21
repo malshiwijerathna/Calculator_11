@@ -52,3 +52,7 @@ walker AIHelper {
     }
 }
 
+with entry {
+    calc = Calculator();
+    calc.start();
+}
